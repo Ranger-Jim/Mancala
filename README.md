@@ -1,4 +1,3 @@
-# COSC-625-Team-Global
 ## Backend
   * play.py
     *  Where FastAPI is located
